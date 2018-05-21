@@ -1,1 +1,1 @@
-Conteudo do arquivo file01.txt
+Conteudo do arquivo file01.txt alterado para conflito.
