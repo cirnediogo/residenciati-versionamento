@@ -1,1 +1,1 @@
-Conteudo do arquivo file02.txt
+Conteudo do arquivo file02.txt alterado.
